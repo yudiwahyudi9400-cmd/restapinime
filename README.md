@@ -56,4 +56,5 @@ __API Version__ : v1
 This project is not affiliated with otakudesu.cam in any way. This project is just a wrapper, so I am not responsible for anything related to the content of the website.
 
 ## Support
-If you like this project, please support me by giving a star ⭐️ for this repository. Thank you 😊
+If you like this project, please support me by giving a star ⭐️ for this repository. Thank you 😊"# restapinime" 
+"# restapinime" 
